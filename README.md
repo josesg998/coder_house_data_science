@@ -6,3 +6,4 @@ Aquí cargo los diferentes desafíos entregados durante el curso de Data Science
 - Visualización de datos
 - Uso de Pandas
 - Importación y limpieza de datos en Json
+- Uso de Numpy
