@@ -1,6 +1,6 @@
 # Desafíos de Data Science
 Aquí cargo los diferentes desafíos entregados durante el curso de Data Science en Coderhouse, en los cuales se desarrollaron diversas habilidades en Python:
-- 'Funciones+Saint Germain.ipynb´ Generación de funciones
+- Generación de funciones
 - Data Wrangling
 - Generación de series de tiempo
 - Visualización de datos
